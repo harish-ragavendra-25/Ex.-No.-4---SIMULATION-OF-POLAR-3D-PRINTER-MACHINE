@@ -11,7 +11,6 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-
 ## Assembly of Polar 3D Printer
 ### 1.	Select 'Assembly of Polar 3D Printer' from the visible list.
 ### 2.	All the parts related to Polar 3D Printer will be shown on the screen.
@@ -24,17 +23,9 @@
 ### 1.	Move the r-axis slider and observe the movement of the r-axis assembly.
 ### 2.	Move the y-axis slider and observe the movement of the y-axis assembly.
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
-
-## OUTPUT:
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
 ## Output:
-
-### Name:
-### Register Number:
-
+### Name:HARISH RAGAVENDRA S
+### Register Number:212222230045
+![Screenshot 2023-06-13 210037](https://github.com/harish-ragavendra-25/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/114852180/b69135f0-8748-4d46-b515-1163abadca6c)
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
